@@ -87,6 +87,14 @@ p {
   text-decoration: underline;
 }
 
+.instagram {
+  display: flex;
+  justify-content: center;
+  color: var(--primary-color);
+  font-size: 28px;
+  text-decoration: none;
+}
+
 @media (max-width: 576px) {
   h1 {
     font-size: 48px;
